@@ -1,17 +1,17 @@
 name: meal_ports
 description: Meal Ports is a set of helpful abstract classes to use with Hexagonal Architecture.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/Italbytz/pub-ports-meal
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  common_ports: ^0.0.3
+  common_ports: ^0.0.4
 
 dev_dependencies:
   flutter_test:
