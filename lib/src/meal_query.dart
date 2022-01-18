@@ -1,4 +1,4 @@
 abstract class MealQuery {
-  int Mensa;
+  int mensa;
   DateTime date;
 }
