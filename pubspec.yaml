@@ -1,6 +1,6 @@
 name: meal_ports
 description: Meal Ports is a set of helpful abstract classes to use with Hexagonal Architecture.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Italbytz/pub-ports-meal
 
 environment:
